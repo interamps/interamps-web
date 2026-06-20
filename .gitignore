@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Production builds
+/.next/
+/out/
+
+# Misc
+.DS_Store
+*.log
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
